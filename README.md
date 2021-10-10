@@ -13,3 +13,16 @@ An alternative, safer means of cutting the ribbon is to have two bearings, one o
 ![IMG_20211009_133031594](https://user-images.githubusercontent.com/35856608/136674847-5e8ffb78-752a-48c7-ae1a-864285ad9888.jpg)
 
 There are few options to purchase such devices and even fewer designs available online. The OBC is an effort to kick-start a solution that makes this design widely available while inviting improvement from the wider community.
+
+# Requirements
+* 2 608 skate bearings.
+* PETG or PLA filament
+* A 3D printer
+* Patience
+
+# Possible points of improvement:
+There are a number of features that beg for improvment:
+* The bearings should ideally be sanded down to remove the bevel on one side so that there is a flatter point of contact between the bearings for better cutting. This will require adjustments to account for the change in the thickness of the bearings.
+* The base should have mounting holes to allow it to be affixed to a board or other surface
+* Currently, the top bearing sits just a little too high, preventing good contact with the bottom bearing. Removing 0.2mm-0.4mm should help this.
+* The current design requires the ribbon wrap around the lower bearing which can be tricky to feed without removing the upper bearing. It would be helpful to figure out a more elegant means of feeding the initial bit of ribbon.
